@@ -20,4 +20,3 @@ class Solution(object):
 
         maxLen = max(maxLen, currentLen)
         return maxLen
-    
