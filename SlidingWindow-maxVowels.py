@@ -24,4 +24,3 @@ class Solution(object):
             end+=1
 
         return maxFreq
-    

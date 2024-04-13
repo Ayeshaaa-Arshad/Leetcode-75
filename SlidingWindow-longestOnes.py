@@ -20,3 +20,4 @@ class Solution(object):
             maxFreq=max(maxFreq,end-start+1)
             end+=1
         return maxFreq-1
+    
