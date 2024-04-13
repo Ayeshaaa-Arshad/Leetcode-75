@@ -1,6 +1,7 @@
 class Solution(object):
     def isSubsequence(self, s, t):
         s_ptr = 0
+
         t_ptr = 0
 
         while s_ptr < len(s) and t_ptr < len(t):
