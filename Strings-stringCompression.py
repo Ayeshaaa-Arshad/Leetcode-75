@@ -27,3 +27,4 @@ class Solution(object):
                     write += 1
 
         return write
+
