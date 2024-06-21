@@ -20,3 +20,4 @@ class Solution(object):
         odd.next = even_head
 
         return odd_head
+
